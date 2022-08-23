@@ -21,9 +21,9 @@
 - Modificar este `README.md` con este contenido:
 
 ```markdown
-### Alumno: ...
+### Alumno: HOSHINO, Airin
 
-#### Comision: ...
+#### Comision: DWN2BV
 ```
 
 - Subir los archivos `index.html`, `index.js` y `README.md`
